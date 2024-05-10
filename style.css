@@ -2,7 +2,7 @@
 
 :root{
     --branco: #ffffff;
-    --cor-de-fundo: #00162e;
+    --cor-de-fundo: #011c36;
     --fundo-senha: #00244d;
     --fundo-texto: #001e40;
     --borda: #0075ff;
@@ -87,4 +87,6 @@
       flex-direction: row;
    }
 }
-   
+   .imagem{
+      width: 10%;
+ }
